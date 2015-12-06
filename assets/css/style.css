@@ -7,16 +7,10 @@
 p {
   font-size: 500%;
   font-style: italic;
-}
-
-.class {
-  font-family: cursive;
+  font-family: "Brush Script MT", cursive;
 }
 
 p1 {
   font-size: 300%;
-}
-
-h {
-  font-size: 200%;
+  font-style: italic;
 }
