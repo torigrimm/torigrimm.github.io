@@ -10,5 +10,9 @@ p {
 }
 
 .class {
-  font-family: "Brush Script MT", cursive;
+  font-family: Brush Script MT;
+}
+
+p2 {
+  font-size: 300%;
 }
